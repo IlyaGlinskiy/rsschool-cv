@@ -10,7 +10,7 @@ I am 28 years old and I have been working as a BIM-modeler for 1,5 year. I want 
 
 ## Experiences
 ### BIM-modeler
-I've worked on a project with companies like Google, PepsiCo and other. I have modeled Data Centers for them and other buildings.
+I am multitasking, purposeful, self-organized, which allows me to perform tasks quickly and efficiently
 
 
 Skills:
