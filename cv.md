@@ -29,9 +29,6 @@ return a * b;
 
 ## Education
 ### University: Brest State Technical University 2013-2018, Civil Engineering major
-December 2019 to January 2020
-**Software testing basics**
-
 
 ## Languages
 * **English** - A2
